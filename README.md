@@ -1,2 +1,1 @@
-# hello-world
-Dieses Repository dient zum Üben des GitHub-Flows.
+Ich studiere in Heidelberg.
