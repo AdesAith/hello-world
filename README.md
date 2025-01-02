@@ -1,1 +1,1 @@
-Ich studiere in Heidelberg.
+
